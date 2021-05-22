@@ -1,0 +1,10 @@
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK Multisave.csprojAssemblyReference.cache
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK_Multisave.Main.resources
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK_Multisave.Properties.Resources.resources
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK Multisave.csproj.GenerateResource.cache
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK Multisave.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK Multisave.exe
+C:\Users\smart\Desktop\HK Multisave\obj\Debug\HK Multisave.pdb
+C:\Users\smart\Desktop\HK Multisave\bin\HK Multisave.exe.config
+C:\Users\smart\Desktop\HK Multisave\bin\HK Multisave.exe
+C:\Users\smart\Desktop\HK Multisave\bin\HK Multisave.pdb
